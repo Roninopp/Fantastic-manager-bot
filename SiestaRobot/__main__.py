@@ -112,7 +112,7 @@ HELP_STRINGS = """
 
 EMI_IMG = "https://te.legra.ph/file/f95ebea77c1488dd21938.jpg"
 
-DONATE_STRING = """ʜᴏɪɪ ᴍᴇ [ᴀᴠɪᴠᴇᴋ sᴀᴍᴜʀᴀɪ](https://t.me/DUSHMANxRONIN)"""
+DONATE_STRING = """ʜᴏɪɪ ᴍᴇ [ᴀᴠɪᴠᴇᴋ sᴀᴍᴜʀᴀɪ](https://t.me/liu_WULANG_MONKES)"""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -783,7 +783,7 @@ def main():
         try:
             dispatcher.bot.sendMessage(
                 f"@{SUPPORT_CHAT}", 
-                f"""**𝚅𝙴𝙽𝙾𝙼 𝚁𝙾𝙱𝙾𝚃 𝚂𝚃𝙰𝚁𝚃𝙴𝙳 🇮🇳**
+                f"""**Fantastic bot started successfully 🇮🇳**
 
 **Python:** `{memek()}`
 **Telegram Library:** `v{peler}`""",
