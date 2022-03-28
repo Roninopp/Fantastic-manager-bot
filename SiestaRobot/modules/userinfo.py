@@ -355,7 +355,7 @@ def info(update: Update, context: CallbackContext):
                             InlineKeyboardButton(
                                 "Health", url="https://t.me/Ronin_Fighters_FD"),
                             InlineKeyboardButton(
-                                "Disaster", url="https://t.me/Ronin_Fighters_FD")
+                                "Disaster", url="https://t.me/liu_WULANG_MONKES")
                         ],
                     ]
                 ),
@@ -373,7 +373,7 @@ def info(update: Update, context: CallbackContext):
                             InlineKeyboardButton(
                                 "Health", url="https://t.me/Ronin_Fighters_FD"),
                             InlineKeyboardButton(
-                                "Disaster", url="https://t.me/Ronin_Fighters_FD")
+                                "Disaster", url="https://t.me/liu_WULANG_MONKES")
                         ],
                     ]
                 ),
